@@ -1,0 +1,434 @@
+[00:26:49] [main/INFO] [GradleStart]: username: vincent1906@live.nl
+[00:26:49] [main/INFO] [GradleStart]: Extra: []
+[00:26:49] [main/INFO] [GradleStart]: Password found, attempting login
+[00:26:50] [main/INFO] [GradleStart]: Login Succesful!
+[00:32:54] [main/INFO] [GradleStart]: username: vincent1906@live.nl
+[00:32:54] [main/INFO] [GradleStart]: Extra: []
+[00:32:54] [main/INFO] [GradleStart]: Password found, attempting login
+[00:32:55] [main/INFO] [GradleStart]: Login Succesful!
+[00:32:55] [main/INFO] [GradleStart]: Found and added coremod: micdoodle8.mods.miccore.MicdoodlePlugin
+[00:32:55] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/Vincent/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --userType, mojang, --accessToken, {REDACTED}, --version, 1.7.10, --uuid, b5142ad1815146cd9f488fccd304ba25, --username, vinic00kie, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[00:32:56] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[00:32:56] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[00:32:56] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[00:32:56] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[01:46:21] [main/INFO] [GradleStart]: username: vincent1906@live.nl
+[01:46:21] [main/INFO] [GradleStart]: Extra: []
+[01:46:21] [main/INFO] [GradleStart]: Password found, attempting login
+[01:46:24] [main/INFO] [GradleStart]: Login Succesful!
+[01:48:49] [main/INFO] [GradleStart]: username: vincent1906@live.nl
+[01:48:49] [main/INFO] [GradleStart]: Extra: []
+[01:48:49] [main/INFO] [GradleStart]: Password found, attempting login
+[01:48:50] [main/INFO] [GradleStart]: Login Succesful!
+[01:48:50] [main/INFO] [GradleStart]: Found and added coremod: micdoodle8.mods.miccore.MicdoodlePlugin
+[01:48:50] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/Vincent/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --userType, mojang, --accessToken, {REDACTED}, --version, 1.7.10, --uuid, b5142ad1815146cd9f488fccd304ba25, --username, vinic00kie, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[01:48:50] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[01:48:50] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[01:48:50] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[01:48:50] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[01:51:47] [main/INFO] [GradleStart]: username: vincent1906@live.nl
+[01:51:47] [main/INFO] [GradleStart]: Extra: []
+[01:51:47] [main/INFO] [GradleStart]: Password found, attempting login
+[01:51:48] [main/INFO] [GradleStart]: Login Succesful!
+[01:51:49] [main/INFO] [GradleStart]: Found and added coremod: micdoodle8.mods.miccore.MicdoodlePlugin
+[01:51:49] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/Vincent/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --userType, mojang, --accessToken, {REDACTED}, --version, 1.7.10, --uuid, b5142ad1815146cd9f488fccd304ba25, --username, vinic00kie, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[01:51:49] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[01:51:49] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[01:51:49] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[01:51:49] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[01:53:30] [main/INFO] [GradleStart]: username: vincent1906@live.nl
+[01:53:30] [main/INFO] [GradleStart]: Extra: []
+[01:53:30] [main/INFO] [GradleStart]: Password found, attempting login
+[01:53:31] [main/INFO] [GradleStart]: Login Succesful!
+[01:53:31] [main/INFO] [GradleStart]: Found and added coremod: micdoodle8.mods.miccore.MicdoodlePlugin
+[01:53:31] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/Vincent/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --userType, mojang, --accessToken, {REDACTED}, --version, 1.7.10, --uuid, b5142ad1815146cd9f488fccd304ba25, --username, vinic00kie, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[01:53:31] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[01:53:31] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[01:53:31] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[01:53:31] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[01:57:28] [main/INFO] [GradleStart]: username: vincent1906@live.nl
+[01:57:28] [main/INFO] [GradleStart]: Extra: []
+[01:57:28] [main/INFO] [GradleStart]: Password found, attempting login
+[01:57:29] [main/INFO] [GradleStart]: Login Succesful!
+[01:57:29] [main/INFO] [GradleStart]: Found and added coremod: micdoodle8.mods.miccore.MicdoodlePlugin
+[01:57:29] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/Vincent/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --userType, mojang, --accessToken, {REDACTED}, --version, 1.7.10, --uuid, b5142ad1815146cd9f488fccd304ba25, --username, vinic00kie, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[01:57:29] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[01:57:29] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[01:57:29] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[01:57:29] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[01:59:36] [main/INFO] [GradleStart]: username: vincent1906@live.nl
+[01:59:36] [main/INFO] [GradleStart]: Extra: []
+[01:59:36] [main/INFO] [GradleStart]: Password found, attempting login
+[01:59:36] [main/INFO] [GradleStart]: Login Succesful!
+[01:59:37] [main/INFO] [GradleStart]: Found and added coremod: micdoodle8.mods.miccore.MicdoodlePlugin
+[01:59:37] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/Vincent/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --userType, mojang, --accessToken, {REDACTED}, --version, 1.7.10, --uuid, b5142ad1815146cd9f488fccd304ba25, --username, vinic00kie, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[01:59:37] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[01:59:37] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[01:59:37] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[01:59:37] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[02:02:01] [main/INFO] [GradleStart]: username: vincent1906@live.nl
+[02:02:01] [main/INFO] [GradleStart]: Extra: []
+[02:02:01] [main/INFO] [GradleStart]: Password found, attempting login
+[02:02:02] [main/INFO] [GradleStart]: Login Succesful!
+[02:02:02] [main/INFO] [GradleStart]: Found and added coremod: micdoodle8.mods.miccore.MicdoodlePlugin
+[02:02:02] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/Vincent/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --userType, mojang, --accessToken, {REDACTED}, --version, 1.7.10, --uuid, b5142ad1815146cd9f488fccd304ba25, --username, vinic00kie, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[02:02:02] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[02:02:02] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[02:02:02] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[02:02:02] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[02:08:57] [main/INFO] [GradleStart]: username: vincent1906@live.nl
+[02:08:57] [main/INFO] [GradleStart]: Extra: []
+[02:08:57] [main/INFO] [GradleStart]: Password found, attempting login
+[02:08:58] [main/INFO] [GradleStart]: Login Succesful!
+[02:08:58] [main/INFO] [GradleStart]: Found and added coremod: micdoodle8.mods.miccore.MicdoodlePlugin
+[02:08:58] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/Vincent/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --userType, mojang, --accessToken, {REDACTED}, --version, 1.7.10, --uuid, b5142ad1815146cd9f488fccd304ba25, --username, vinic00kie, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[02:08:58] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[02:08:58] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[02:08:58] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[02:08:58] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[02:12:25] [main/INFO] [GradleStart]: username: vincent1906@live.nl
+[02:12:25] [main/INFO] [GradleStart]: Extra: []
+[02:12:25] [main/INFO] [GradleStart]: Password found, attempting login
+[02:12:26] [main/INFO] [GradleStart]: Login Succesful!
+[02:12:26] [main/INFO] [GradleStart]: Found and added coremod: micdoodle8.mods.miccore.MicdoodlePlugin
+[02:12:26] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/Vincent/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --userType, mojang, --accessToken, {REDACTED}, --version, 1.7.10, --uuid, b5142ad1815146cd9f488fccd304ba25, --username, vinic00kie, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[02:12:26] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[02:12:26] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[02:12:26] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[02:12:26] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[02:18:05] [main/INFO] [GradleStart]: username: vincent1906@live.nl
+[02:18:05] [main/INFO] [GradleStart]: Extra: []
+[02:18:05] [main/INFO] [GradleStart]: Password found, attempting login
+[02:18:06] [main/INFO] [GradleStart]: Login Succesful!
+[02:18:06] [main/INFO] [GradleStart]: Found and added coremod: micdoodle8.mods.miccore.MicdoodlePlugin
+[02:18:06] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/Vincent/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --userType, mojang, --accessToken, {REDACTED}, --version, 1.7.10, --uuid, b5142ad1815146cd9f488fccd304ba25, --username, vinic00kie, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[02:18:06] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[02:18:06] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[02:18:06] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[02:18:06] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[07:39:09] [main/INFO] [GradleStart]: username: vincent1906@live.nl
+[07:39:09] [main/INFO] [GradleStart]: Extra: []
+[07:39:09] [main/INFO] [GradleStart]: Password found, attempting login
+[07:39:11] [main/INFO] [GradleStart]: Login Succesful!
+[07:39:11] [main/INFO] [GradleStart]: Found and added coremod: micdoodle8.mods.miccore.MicdoodlePlugin
+[07:39:11] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/Vincent/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --userType, mojang, --accessToken, {REDACTED}, --version, 1.7.10, --uuid, b5142ad1815146cd9f488fccd304ba25, --username, vinic00kie, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[07:39:11] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[07:39:11] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[07:39:11] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[07:39:11] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[07:51:49] [main/INFO] [GradleStart]: username: vincent1906@live.nl
+[07:51:49] [main/INFO] [GradleStart]: Extra: []
+[07:51:49] [main/INFO] [GradleStart]: Password found, attempting login
+[07:51:50] [main/INFO] [GradleStart]: Login Succesful!
+[07:51:51] [main/INFO] [GradleStart]: Found and added coremod: micdoodle8.mods.miccore.MicdoodlePlugin
+[07:51:51] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/Vincent/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --userType, mojang, --accessToken, {REDACTED}, --version, 1.7.10, --uuid, b5142ad1815146cd9f488fccd304ba25, --username, vinic00kie, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[07:51:51] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[07:51:51] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[07:51:51] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[07:51:51] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[07:57:43] [main/INFO] [GradleStart]: username: vincent1906@live.nl
+[07:57:43] [main/INFO] [GradleStart]: Extra: []
+[07:57:43] [main/INFO] [GradleStart]: Password found, attempting login
+[07:57:44] [main/INFO] [GradleStart]: Login Succesful!
+[07:57:44] [main/INFO] [GradleStart]: Found and added coremod: micdoodle8.mods.miccore.MicdoodlePlugin
+[07:57:44] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/Vincent/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --userType, mojang, --accessToken, {REDACTED}, --version, 1.7.10, --uuid, b5142ad1815146cd9f488fccd304ba25, --username, vinic00kie, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[07:57:44] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[07:57:44] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[07:57:44] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[07:57:44] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[07:59:00] [main/INFO] [GradleStart]: username: vincent1906@live.nl
+[07:59:00] [main/INFO] [GradleStart]: Extra: []
+[07:59:00] [main/INFO] [GradleStart]: Password found, attempting login
+[07:59:01] [main/INFO] [GradleStart]: Login Succesful!
+[07:59:01] [main/INFO] [GradleStart]: Found and added coremod: micdoodle8.mods.miccore.MicdoodlePlugin
+[07:59:01] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/Vincent/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --userType, mojang, --accessToken, {REDACTED}, --version, 1.7.10, --uuid, b5142ad1815146cd9f488fccd304ba25, --username, vinic00kie, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[07:59:01] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[07:59:01] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[07:59:01] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[07:59:01] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[07:59:33] [main/INFO] [GradleStart]: username: vincent1906@live.nl
+[07:59:33] [main/INFO] [GradleStart]: Extra: []
+[07:59:33] [main/INFO] [GradleStart]: Password found, attempting login
+[07:59:34] [main/INFO] [GradleStart]: Login Succesful!
+[07:59:34] [main/INFO] [GradleStart]: Found and added coremod: micdoodle8.mods.miccore.MicdoodlePlugin
+[07:59:34] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/Vincent/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --userType, mojang, --accessToken, {REDACTED}, --version, 1.7.10, --uuid, b5142ad1815146cd9f488fccd304ba25, --username, vinic00kie, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[08:00:31] [main/INFO] [GradleStart]: username: vincent1906@live.nl
+[08:00:31] [main/INFO] [GradleStart]: Extra: []
+[08:00:31] [main/INFO] [GradleStart]: Password found, attempting login
+[08:00:32] [main/INFO] [GradleStart]: Login Succesful!
+[08:00:32] [main/INFO] [GradleStart]: Found and added coremod: micdoodle8.mods.miccore.MicdoodlePlugin
+[08:00:32] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/Vincent/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --userType, mojang, --accessToken, {REDACTED}, --version, 1.7.10, --uuid, b5142ad1815146cd9f488fccd304ba25, --username, vinic00kie, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[08:00:33] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[08:00:33] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[08:00:33] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[08:00:33] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[10:28:52] [main/INFO] [GradleStart]: username: vincent1906@live.nl
+[10:28:52] [main/INFO] [GradleStart]: Extra: []
+[10:28:52] [main/INFO] [GradleStart]: Password found, attempting login
+[10:28:53] [main/INFO] [GradleStart]: Login Succesful!
+[10:28:54] [main/INFO] [GradleStart]: Found and added coremod: micdoodle8.mods.miccore.MicdoodlePlugin
+[10:28:54] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/Vincent/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --userType, mojang, --accessToken, {REDACTED}, --version, 1.7.10, --uuid, b5142ad1815146cd9f488fccd304ba25, --username, vinic00kie, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[10:28:54] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[10:28:54] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[10:28:54] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[10:28:54] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[10:43:32] [main/INFO] [GradleStart]: username: vincent1906@live.nl
+[10:43:32] [main/INFO] [GradleStart]: Extra: []
+[10:43:32] [main/INFO] [GradleStart]: Password found, attempting login
+[10:43:33] [main/INFO] [GradleStart]: Login Succesful!
+[10:43:33] [main/INFO] [GradleStart]: Found and added coremod: micdoodle8.mods.miccore.MicdoodlePlugin
+[10:43:33] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/Vincent/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --userType, mojang, --accessToken, {REDACTED}, --version, 1.7.10, --uuid, b5142ad1815146cd9f488fccd304ba25, --username, vinic00kie, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[10:43:33] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[10:43:33] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[10:43:33] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[10:43:33] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[10:47:57] [main/INFO] [GradleStart]: username: vincent1906@live.nl
+[10:47:57] [main/INFO] [GradleStart]: Extra: []
+[10:47:57] [main/INFO] [GradleStart]: Password found, attempting login
+[10:47:58] [main/INFO] [GradleStart]: Login Succesful!
+[10:47:58] [main/INFO] [GradleStart]: Found and added coremod: micdoodle8.mods.miccore.MicdoodlePlugin
+[10:47:58] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/Vincent/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --userType, mojang, --accessToken, {REDACTED}, --version, 1.7.10, --uuid, b5142ad1815146cd9f488fccd304ba25, --username, vinic00kie, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[10:47:58] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[10:47:58] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[10:47:58] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[10:47:58] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[10:49:36] [main/INFO] [GradleStart]: username: vincent1906@live.nl
+[10:49:36] [main/INFO] [GradleStart]: Extra: []
+[10:49:36] [main/INFO] [GradleStart]: Password found, attempting login
+[10:49:37] [main/INFO] [GradleStart]: Login Succesful!
+[10:49:37] [main/INFO] [GradleStart]: Found and added coremod: micdoodle8.mods.miccore.MicdoodlePlugin
+[10:49:37] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/Vincent/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --userType, mojang, --accessToken, {REDACTED}, --version, 1.7.10, --uuid, b5142ad1815146cd9f488fccd304ba25, --username, vinic00kie, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[10:49:37] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[10:49:37] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[10:49:37] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[10:49:37] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[09:40:18] [main/INFO] [GradleStart]: username: vincent1906@live.nl
+[09:40:18] [main/INFO] [GradleStart]: Extra: []
+[09:40:18] [main/INFO] [GradleStart]: Password found, attempting login
+[09:40:22] [main/INFO] [GradleStart]: Login Succesful!
+[09:40:22] [main/INFO] [GradleStart]: Found and added coremod: micdoodle8.mods.miccore.MicdoodlePlugin
+[09:40:22] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/Vincent/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --userType, mojang, --accessToken, {REDACTED}, --version, 1.7.10, --uuid, b5142ad1815146cd9f488fccd304ba25, --username, vinic00kie, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[09:40:22] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[09:40:22] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[09:40:22] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[09:40:22] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[12:39:41] [main/INFO] [GradleStart]: username: vincent1906@live.nl
+[12:39:41] [main/INFO] [GradleStart]: Extra: []
+[12:39:41] [main/INFO] [GradleStart]: Password found, attempting login
+[12:39:42] [main/INFO] [GradleStart]: Login Succesful!
+[12:39:42] [main/INFO] [GradleStart]: Found and added coremod: micdoodle8.mods.miccore.MicdoodlePlugin
+[12:39:42] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/Vincent/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --userType, mojang, --accessToken, {REDACTED}, --version, 1.7.10, --uuid, b5142ad1815146cd9f488fccd304ba25, --username, vinic00kie, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[12:39:42] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[12:39:42] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[12:39:42] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[12:39:42] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[12:43:28] [main/INFO] [GradleStart]: username: vincent1906@live.nl
+[12:43:28] [main/INFO] [GradleStart]: Extra: []
+[12:43:28] [main/INFO] [GradleStart]: Password found, attempting login
+[12:43:29] [main/INFO] [GradleStart]: Login Succesful!
+[12:43:30] [main/INFO] [GradleStart]: Found and added coremod: micdoodle8.mods.miccore.MicdoodlePlugin
+[12:43:30] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/Vincent/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --userType, mojang, --accessToken, {REDACTED}, --version, 1.7.10, --uuid, b5142ad1815146cd9f488fccd304ba25, --username, vinic00kie, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[12:43:30] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[12:43:30] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[12:43:30] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[12:43:30] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[13:20:59] [main/INFO] [GradleStart]: username: vincent1906@live.nl
+[13:20:59] [main/INFO] [GradleStart]: Extra: []
+[13:20:59] [main/INFO] [GradleStart]: Password found, attempting login
+[13:21:01] [main/INFO] [GradleStart]: Login Succesful!
+[13:21:01] [main/INFO] [GradleStart]: Found and added coremod: micdoodle8.mods.miccore.MicdoodlePlugin
+[13:21:02] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/Vincent/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --userType, mojang, --accessToken, {REDACTED}, --version, 1.7.10, --uuid, b5142ad1815146cd9f488fccd304ba25, --username, vinic00kie, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[13:21:02] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[13:21:02] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[13:21:02] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[13:21:02] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[13:23:42] [main/INFO] [GradleStart]: username: vincent1906@live.nl
+[13:23:42] [main/INFO] [GradleStart]: Extra: []
+[13:23:42] [main/INFO] [GradleStart]: Password found, attempting login
+[13:23:44] [main/INFO] [GradleStart]: Login Succesful!
+[13:23:44] [main/INFO] [GradleStart]: Found and added coremod: micdoodle8.mods.miccore.MicdoodlePlugin
+[13:23:44] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/Vincent/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --userType, mojang, --accessToken, {REDACTED}, --version, 1.7.10, --uuid, b5142ad1815146cd9f488fccd304ba25, --username, vinic00kie, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[13:23:44] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[13:23:44] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[13:23:44] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[13:23:44] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[13:36:43] [main/INFO] [GradleStart]: username: vincent1906@live.nl
+[13:36:43] [main/INFO] [GradleStart]: Extra: []
+[13:36:43] [main/INFO] [GradleStart]: Password found, attempting login
+[13:36:45] [main/INFO] [GradleStart]: Login Succesful!
+[13:36:45] [main/INFO] [GradleStart]: Found and added coremod: micdoodle8.mods.miccore.MicdoodlePlugin
+[13:36:45] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/Vincent/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --userType, mojang, --accessToken, {REDACTED}, --version, 1.7.10, --uuid, b5142ad1815146cd9f488fccd304ba25, --username, vinic00kie, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[13:36:45] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[13:36:45] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[13:36:45] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[13:36:45] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[13:40:53] [main/INFO] [GradleStart]: username: vincent1906@live.nl
+[13:40:53] [main/INFO] [GradleStart]: Extra: []
+[13:40:53] [main/INFO] [GradleStart]: Password found, attempting login
+[13:40:58] [main/INFO] [GradleStart]: Login Succesful!
+[13:40:59] [main/INFO] [GradleStart]: Found and added coremod: micdoodle8.mods.miccore.MicdoodlePlugin
+[13:40:59] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/Vincent/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --userType, mojang, --accessToken, {REDACTED}, --version, 1.7.10, --uuid, b5142ad1815146cd9f488fccd304ba25, --username, vinic00kie, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[13:40:59] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[13:40:59] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[13:40:59] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[13:40:59] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[13:49:24] [main/INFO] [GradleStart]: username: vincent1906@live.nl
+[13:49:24] [main/INFO] [GradleStart]: Extra: []
+[13:49:24] [main/INFO] [GradleStart]: Password found, attempting login
+[13:49:26] [main/INFO] [GradleStart]: Login Succesful!
+[13:49:26] [main/INFO] [GradleStart]: Found and added coremod: micdoodle8.mods.miccore.MicdoodlePlugin
+[13:49:26] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/Vincent/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --userType, mojang, --accessToken, {REDACTED}, --version, 1.7.10, --uuid, b5142ad1815146cd9f488fccd304ba25, --username, vinic00kie, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[13:49:26] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[13:49:26] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[13:49:26] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[13:49:26] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[13:55:09] [main/INFO] [GradleStart]: username: vincent1906@live.nl
+[13:55:09] [main/INFO] [GradleStart]: Extra: []
+[13:55:09] [main/INFO] [GradleStart]: Password found, attempting login
+[13:55:10] [main/INFO] [GradleStart]: Login Succesful!
+[13:55:10] [main/INFO] [GradleStart]: Found and added coremod: micdoodle8.mods.miccore.MicdoodlePlugin
+[13:55:10] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/Vincent/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --userType, mojang, --accessToken, {REDACTED}, --version, 1.7.10, --uuid, b5142ad1815146cd9f488fccd304ba25, --username, vinic00kie, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[13:55:10] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[13:55:10] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[13:55:10] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[13:55:10] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[14:08:34] [main/INFO] [GradleStart]: username: vincent1906@live.nl
+[14:08:34] [main/INFO] [GradleStart]: Extra: []
+[14:08:34] [main/INFO] [GradleStart]: Password found, attempting login
+[14:08:35] [main/INFO] [GradleStart]: Login Succesful!
+[14:08:35] [main/INFO] [GradleStart]: Found and added coremod: micdoodle8.mods.miccore.MicdoodlePlugin
+[14:08:35] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/Vincent/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --userType, mojang, --accessToken, {REDACTED}, --version, 1.7.10, --uuid, b5142ad1815146cd9f488fccd304ba25, --username, vinic00kie, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[14:08:35] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[14:08:35] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[14:08:35] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[14:08:35] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[14:10:41] [main/INFO] [GradleStart]: username: vincent1906@live.nl
+[14:10:41] [main/INFO] [GradleStart]: Extra: []
+[14:10:41] [main/INFO] [GradleStart]: Password found, attempting login
+[14:10:42] [main/INFO] [GradleStart]: Login Succesful!
+[14:10:43] [main/INFO] [GradleStart]: Found and added coremod: micdoodle8.mods.miccore.MicdoodlePlugin
+[14:10:43] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/Vincent/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --userType, mojang, --accessToken, {REDACTED}, --version, 1.7.10, --uuid, b5142ad1815146cd9f488fccd304ba25, --username, vinic00kie, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[14:10:43] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[14:10:43] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[14:10:43] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[14:10:43] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[14:18:27] [main/INFO] [GradleStart]: username: vincent1906@live.nl
+[14:18:27] [main/INFO] [GradleStart]: Extra: []
+[14:18:27] [main/INFO] [GradleStart]: Password found, attempting login
+[14:18:28] [main/INFO] [GradleStart]: Login Succesful!
+[14:18:28] [main/INFO] [GradleStart]: Found and added coremod: micdoodle8.mods.miccore.MicdoodlePlugin
+[14:18:28] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/Vincent/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --userType, mojang, --accessToken, {REDACTED}, --version, 1.7.10, --uuid, b5142ad1815146cd9f488fccd304ba25, --username, vinic00kie, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[14:18:29] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[14:18:29] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[14:18:29] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[14:18:29] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[14:20:28] [main/INFO] [GradleStart]: username: vincent1906@live.nl
+[14:20:28] [main/INFO] [GradleStart]: Extra: []
+[14:20:28] [main/INFO] [GradleStart]: Password found, attempting login
+[14:20:29] [main/INFO] [GradleStart]: Login Succesful!
+[14:20:29] [main/INFO] [GradleStart]: Found and added coremod: micdoodle8.mods.miccore.MicdoodlePlugin
+[14:20:29] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/Vincent/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --userType, mojang, --accessToken, {REDACTED}, --version, 1.7.10, --uuid, b5142ad1815146cd9f488fccd304ba25, --username, vinic00kie, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[14:20:29] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[14:20:29] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[14:20:29] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[14:20:29] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[14:22:43] [main/INFO] [GradleStart]: username: vincent1906@live.nl
+[14:22:43] [main/INFO] [GradleStart]: Extra: []
+[14:22:43] [main/INFO] [GradleStart]: Password found, attempting login
+[14:22:44] [main/INFO] [GradleStart]: Login Succesful!
+[14:22:44] [main/INFO] [GradleStart]: Found and added coremod: micdoodle8.mods.miccore.MicdoodlePlugin
+[14:22:44] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/Vincent/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --userType, mojang, --accessToken, {REDACTED}, --version, 1.7.10, --uuid, b5142ad1815146cd9f488fccd304ba25, --username, vinic00kie, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[14:22:44] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[14:22:44] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[14:22:44] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[14:22:44] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[14:25:24] [main/INFO] [GradleStart]: username: vincent1906@live.nl
+[14:25:24] [main/INFO] [GradleStart]: Extra: []
+[14:25:24] [main/INFO] [GradleStart]: Password found, attempting login
+[14:25:25] [main/INFO] [GradleStart]: Login Succesful!
+[14:25:25] [main/INFO] [GradleStart]: Found and added coremod: micdoodle8.mods.miccore.MicdoodlePlugin
+[14:25:25] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/Vincent/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --userType, mojang, --accessToken, {REDACTED}, --version, 1.7.10, --uuid, b5142ad1815146cd9f488fccd304ba25, --username, vinic00kie, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[14:25:25] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[14:25:25] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[14:25:25] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[14:25:25] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[15:33:05] [main/INFO] [GradleStart]: username: vincent1906@live.nl
+[15:33:05] [main/INFO] [GradleStart]: Extra: []
+[15:33:05] [main/INFO] [GradleStart]: Password found, attempting login
+[15:33:07] [main/INFO] [GradleStart]: Login Succesful!
+[15:33:07] [main/INFO] [GradleStart]: Found and added coremod: micdoodle8.mods.miccore.MicdoodlePlugin
+[15:33:07] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/Vincent/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --userType, mojang, --accessToken, {REDACTED}, --version, 1.7.10, --uuid, b5142ad1815146cd9f488fccd304ba25, --username, vinic00kie, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[15:33:07] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[15:33:07] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[15:33:07] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[15:33:07] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[15:54:54] [main/INFO] [GradleStart]: username: vincent1906@live.nl
+[15:54:54] [main/INFO] [GradleStart]: Extra: []
+[15:54:54] [main/INFO] [GradleStart]: Password found, attempting login
+[15:54:56] [main/INFO] [GradleStart]: Login Succesful!
+[15:54:56] [main/INFO] [GradleStart]: Found and added coremod: micdoodle8.mods.miccore.MicdoodlePlugin
+[15:54:56] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/Vincent/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --userType, mojang, --accessToken, {REDACTED}, --version, 1.7.10, --uuid, b5142ad1815146cd9f488fccd304ba25, --username, vinic00kie, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[15:54:56] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[15:54:56] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[15:54:56] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[15:54:56] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[16:01:35] [main/INFO] [GradleStart]: username: vincent1906@live.nl
+[16:01:35] [main/INFO] [GradleStart]: Extra: []
+[16:01:35] [main/INFO] [GradleStart]: Password found, attempting login
+[16:01:37] [main/INFO] [GradleStart]: Login Succesful!
+[16:01:37] [main/INFO] [GradleStart]: Found and added coremod: micdoodle8.mods.miccore.MicdoodlePlugin
+[16:01:37] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/Vincent/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --userType, mojang, --accessToken, {REDACTED}, --version, 1.7.10, --uuid, b5142ad1815146cd9f488fccd304ba25, --username, vinic00kie, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[16:01:37] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[16:01:37] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[16:01:37] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[16:01:37] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[19:08:24] [main/INFO] [GradleStart]: username: vincent1906@live.nl
+[19:08:24] [main/INFO] [GradleStart]: Extra: []
+[19:08:24] [main/INFO] [GradleStart]: Password found, attempting login
+[19:08:25] [main/INFO] [GradleStart]: Login Succesful!
+[19:08:26] [main/INFO] [GradleStart]: Found and added coremod: micdoodle8.mods.miccore.MicdoodlePlugin
+[19:08:26] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/Vincent/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --userType, mojang, --accessToken, {REDACTED}, --version, 1.7.10, --uuid, b5142ad1815146cd9f488fccd304ba25, --username, vinic00kie, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[19:08:26] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[19:08:26] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[19:08:26] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[19:08:26] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[19:10:10] [main/INFO] [GradleStart]: username: vincent1906@live.nl
+[19:10:10] [main/INFO] [GradleStart]: Extra: []
+[19:10:10] [main/INFO] [GradleStart]: Password found, attempting login
+[19:10:12] [main/INFO] [GradleStart]: Login Succesful!
+[19:10:12] [main/INFO] [GradleStart]: Found and added coremod: micdoodle8.mods.miccore.MicdoodlePlugin
+[19:10:12] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/Vincent/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --userType, mojang, --accessToken, {REDACTED}, --version, 1.7.10, --uuid, b5142ad1815146cd9f488fccd304ba25, --username, vinic00kie, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[19:10:12] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[19:10:12] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[19:10:12] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[19:10:12] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[11:24:50] [main/INFO] [GradleStart]: username: vincent1906@live.nl
+[11:24:50] [main/INFO] [GradleStart]: Extra: []
+[11:24:50] [main/INFO] [GradleStart]: Password found, attempting login
+[11:24:51] [main/INFO] [GradleStart]: Login Succesful!
+[11:24:51] [main/INFO] [GradleStart]: Found and added coremod: micdoodle8.mods.miccore.MicdoodlePlugin
+[11:24:51] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/Vincent/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --userType, mojang, --accessToken, {REDACTED}, --version, 1.7.10, --uuid, b5142ad1815146cd9f488fccd304ba25, --username, vinic00kie, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[11:24:51] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[11:24:51] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[11:24:51] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[11:24:51] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[11:27:54] [main/INFO] [GradleStart]: username: vincent1906@live.nl
+[11:27:54] [main/INFO] [GradleStart]: Extra: []
+[11:27:54] [main/INFO] [GradleStart]: Password found, attempting login
+[11:27:55] [main/INFO] [GradleStart]: Login Succesful!
+[11:27:56] [main/INFO] [GradleStart]: Found and added coremod: micdoodle8.mods.miccore.MicdoodlePlugin
+[11:27:56] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/Vincent/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --userType, mojang, --accessToken, {REDACTED}, --version, 1.7.10, --uuid, b5142ad1815146cd9f488fccd304ba25, --username, vinic00kie, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[11:27:56] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[11:27:56] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[11:27:56] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[11:27:56] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker
+[11:37:56] [main/INFO] [GradleStart]: username: vincent1906@live.nl
+[11:37:56] [main/INFO] [GradleStart]: Extra: []
+[11:37:56] [main/INFO] [GradleStart]: Password found, attempting login
+[11:37:57] [main/INFO] [GradleStart]: Login Succesful!
+[11:37:58] [main/INFO] [GradleStart]: Found and added coremod: micdoodle8.mods.miccore.MicdoodlePlugin
+[11:37:58] [main/INFO] [GradleStart]: Running with arguments: [--userProperties, {}, --assetsDir, C:/Users/Vincent/.gradle/caches/minecraft/assets, --assetIndex, 1.7.10, --userType, mojang, --accessToken, {REDACTED}, --version, 1.7.10, --uuid, b5142ad1815146cd9f488fccd304ba25, --username, vinic00kie, --tweakClass, cpw.mods.fml.common.launcher.FMLTweaker, --tweakClass, net.minecraftforge.gradle.tweakers.CoremodTweaker]
+[11:37:58] [main/INFO] [LaunchWrapper]: Loading tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[11:37:58] [main/INFO] [LaunchWrapper]: Using primary tweak class name cpw.mods.fml.common.launcher.FMLTweaker
+[11:37:58] [main/INFO] [LaunchWrapper]: Loading tweak class name net.minecraftforge.gradle.tweakers.CoremodTweaker
+[11:37:58] [main/INFO] [LaunchWrapper]: Calling tweak class cpw.mods.fml.common.launcher.FMLTweaker

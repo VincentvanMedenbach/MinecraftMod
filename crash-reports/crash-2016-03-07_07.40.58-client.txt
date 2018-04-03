@@ -1,0 +1,126 @@
+---- Minecraft Crash Report ----
+// But it works on my machine.
+
+Time: 7-3-16 7:40
+Description: Unexpected error
+
+java.lang.NullPointerException: Unexpected error
+	at java.util.regex.Matcher.getTextLength(Unknown Source)
+	at java.util.regex.Matcher.reset(Unknown Source)
+	at java.util.regex.Matcher.<init>(Unknown Source)
+	at java.util.regex.Pattern.matcher(Unknown Source)
+	at net.minecraft.util.ChatComponentTranslation.initializeFromFormat(ChatComponentTranslation.java:90)
+	at net.minecraft.util.ChatComponentTranslation.ensureInitialized(ChatComponentTranslation.java:67)
+	at net.minecraft.util.ChatComponentTranslation.iterator(ChatComponentTranslation.java:202)
+	at com.google.common.collect.Lists.newArrayList(Lists.java:129)
+	at net.minecraft.client.gui.GuiNewChat.func_146237_a(GuiNewChat.java:176)
+	at net.minecraft.client.gui.GuiNewChat.printChatMessageWithOptionalDeletion(GuiNewChat.java:156)
+	at net.minecraft.client.gui.GuiNewChat.printChatMessage(GuiNewChat.java:148)
+	at net.minecraft.client.network.NetHandlerPlayClient.handleChat(NetHandlerPlayClient.java:795)
+	at net.minecraft.network.play.server.S02PacketChat.processPacket(S02PacketChat.java:56)
+	at net.minecraft.network.play.server.S02PacketChat.processPacket(S02PacketChat.java:83)
+	at net.minecraft.network.NetworkManager.processReceivedPackets(NetworkManager.java:241)
+	at net.minecraft.client.multiplayer.PlayerControllerMP.updateController(PlayerControllerMP.java:317)
+	at net.minecraft.client.Minecraft.runTick(Minecraft.java:1693)
+	at net.minecraft.client.Minecraft.runGameLoop(Minecraft.java:1039)
+	at net.minecraft.client.Minecraft.run(Minecraft.java:962)
+	at net.minecraft.client.main.Main.main(Main.java:164)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+	at net.minecraftforge.gradle.GradleStartCommon.launch(Unknown Source)
+	at GradleStart.main(Unknown Source)
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Stacktrace:
+	at java.util.regex.Matcher.getTextLength(Unknown Source)
+	at java.util.regex.Matcher.reset(Unknown Source)
+	at java.util.regex.Matcher.<init>(Unknown Source)
+	at java.util.regex.Pattern.matcher(Unknown Source)
+	at net.minecraft.util.ChatComponentTranslation.initializeFromFormat(ChatComponentTranslation.java:90)
+	at net.minecraft.util.ChatComponentTranslation.ensureInitialized(ChatComponentTranslation.java:67)
+	at net.minecraft.util.ChatComponentTranslation.iterator(ChatComponentTranslation.java:202)
+	at com.google.common.collect.Lists.newArrayList(Lists.java:129)
+	at net.minecraft.client.gui.GuiNewChat.func_146237_a(GuiNewChat.java:176)
+	at net.minecraft.client.gui.GuiNewChat.printChatMessageWithOptionalDeletion(GuiNewChat.java:156)
+	at net.minecraft.client.gui.GuiNewChat.printChatMessage(GuiNewChat.java:148)
+	at net.minecraft.client.network.NetHandlerPlayClient.handleChat(NetHandlerPlayClient.java:795)
+	at net.minecraft.network.play.server.S02PacketChat.processPacket(S02PacketChat.java:56)
+	at net.minecraft.network.play.server.S02PacketChat.processPacket(S02PacketChat.java:83)
+	at net.minecraft.network.NetworkManager.processReceivedPackets(NetworkManager.java:241)
+	at net.minecraft.client.multiplayer.PlayerControllerMP.updateController(PlayerControllerMP.java:317)
+
+-- Affected level --
+Details:
+	Level name: MpServer
+	All players: 1 total; [GCEntityClientPlayerMP['vinic00kie'/348, l='MpServer', x=204,64, y=1132,51, z=240,75]]
+	Chunk stats: MultiplayerChunkCache: 572, 572
+	Level seed: 0
+	Level generator: ID 00 - default, ver 1. Features enabled: false
+	Level generator options: 
+	Level spawn location: World: (200,64,248), Chunk: (at 8,4,8 in 12,15; contains blocks 192,0,240 to 207,255,255), Region: (0,0; contains chunks 0,0 to 31,31, blocks 0,0,0 to 511,255,511)
+	Level time: 5386 game time, 5386 day time
+	Level dimension: 0
+	Level storage version: 0x00000 - Unknown?
+	Level weather: Rain time: 0 (now: false), thunder time: 0 (now: false)
+	Level game mode: Game mode: creative (ID 1). Hardcore: false. Cheats: false
+	Forced entities: 104 total; [EntitySquid['Squid'/108055, l='MpServer', x=171,50, y=61,00, z=177,50], EntitySquid['Squid'/108057, l='MpServer', x=168,50, y=61,00, z=177,50], EntitySquid['Squid'/108067, l='MpServer', x=160,50, y=48,00, z=273,50], EntitySquid['Squid'/108066, l='MpServer', x=162,50, y=48,00, z=272,50], EntitySquid['Squid'/108069, l='MpServer', x=163,50, y=48,00, z=276,50], EntitySquid['Squid'/108068, l='MpServer', x=161,50, y=48,00, z=275,50], EntitySquid['Squid'/108071, l='MpServer', x=163,50, y=48,00, z=279,50], EntitySquid['Squid'/108070, l='MpServer', x=164,50, y=48,00, z=275,50], EntitySquid['Squid'/108073, l='MpServer', x=162,50, y=48,00, z=279,50], EntitySquid['Squid'/108072, l='MpServer', x=161,50, y=48,00, z=279,50], EntitySquid['Squid'/108075, l='MpServer', x=166,50, y=48,00, z=274,50], EntitySquid['Squid'/108074, l='MpServer', x=165,50, y=48,00, z=274,50], EntitySquid['Squid'/108077, l='MpServer', x=159,50, y=48,00, z=275,50], EntitySquid['Squid'/108076, l='MpServer', x=163,50, y=48,00, z=274,50], EntitySkeleton['Skeleton'/107693, l='MpServer', x=271,50, y=28,00, z=201,50], EntitySkeleton['Skeleton'/107692, l='MpServer', x=273,50, y=28,00, z=198,50], EntityBat['Bat'/107731, l='MpServer', x=259,50, y=28,00, z=231,50], EntityBat['Bat'/107730, l='MpServer', x=259,50, y=28,00, z=230,50], EntityBat['Bat'/107732, l='MpServer', x=260,50, y=28,00, z=231,50], EntityItem['item.tile.mushroom'/254, l='MpServer', x=222,13, y=11,13, z=180,72], EntityChicken['Chicken'/255, l='MpServer', x=223,56, y=72,00, z=252,47], EntityChicken['Chicken'/256, l='MpServer', x=222,53, y=70,00, z=271,44], EntityChicken['Chicken'/257, l='MpServer', x=216,56, y=67,35, z=273,41], EntityChicken['Chicken'/261, l='MpServer', x=234,03, y=66,00, z=191,09], EntityChicken['Chicken'/262, l='MpServer', x=232,59, y=65,00, z=188,56], EntityChicken['Chicken'/263, l='MpServer', x=225,84, y=71,00, z=267,16], EntityHorse['Horse'/264, l='MpServer', x=230,91, y=71,00, z=266,22], EntityHorse['Horse'/265, l='MpServer', x=227,94, y=71,00, z=266,00], EntityHorse['Horse'/266, l='MpServer', x=228,28, y=70,00, z=271,97], EntityHorse['Horse'/267, l='MpServer', x=232,47, y=71,00, z=267,88], EntityHorse['Horse'/268, l='MpServer', x=229,72, y=71,00, z=267,94], EntityChicken['Chicken'/269, l='MpServer', x=234,53, y=70,00, z=268,53], EntityHorse['Horse'/270, l='MpServer', x=226,83, y=70,00, z=274,74], EntitySheep['Sheep'/271, l='MpServer', x=229,03, y=70,00, z=277,06], EntityItem['item.item.seeds'/272, l='MpServer', x=233,69, y=69,13, z=293,13], EntitySquid['Squid'/107793, l='MpServer', x=167,50, y=58,00, z=291,50], EntityChicken['Chicken'/273, l='MpServer', x=251,53, y=69,00, z=175,59], EntitySquid['Squid'/107792, l='MpServer', x=172,50, y=58,00, z=293,50], EntityChicken['Chicken'/274, l='MpServer', x=252,38, y=64,00, z=172,56], EntitySquid['Squid'/107795, l='MpServer', x=166,50, y=58,00, z=299,50], EntityChicken['Chicken'/275, l='MpServer', x=254,47, y=67,00, z=185,41], EntitySquid['Squid'/107794, l='MpServer', x=168,50, y=58,00, z=294,50], EntityChicken['Chicken'/276, l='MpServer', x=240,56, y=67,00, z=191,56], EntitySquid['Squid'/107797, l='MpServer', x=175,50, y=58,00, z=296,50], EntityChicken['Chicken'/277, l='MpServer', x=255,59, y=69,00, z=176,59], EntitySquid['Squid'/107796, l='MpServer', x=179,50, y=58,00, z=295,50], EntityChicken['Chicken'/278, l='MpServer', x=240,50, y=67,00, z=194,50], EntitySquid['Squid'/107799, l='MpServer', x=176,50, y=58,00, z=299,50], EntityChicken['Chicken'/279, l='MpServer', x=250,56, y=71,00, z=283,44], EntitySquid['Squid'/107798, l='MpServer', x=179,50, y=58,00, z=299,50], EntityChicken['Chicken'/280, l='MpServer', x=255,47, y=70,00, z=273,47], EntityChicken['Chicken'/281, l='MpServer', x=243,43, y=70,85, z=275,85], EntitySquid['Squid'/107800, l='MpServer', x=175,50, y=58,00, z=294,50], EntitySheep['Sheep'/282, l='MpServer', x=244,66, y=71,00, z=283,16], EntitySquid['Squid'/107803, l='MpServer', x=175,50, y=58,00, z=293,50], EntitySheep['Sheep'/283, l='MpServer', x=248,03, y=71,00, z=294,94], EntitySquid['Squid'/107802, l='MpServer', x=178,50, y=58,00, z=292,50], EntitySheep['Sheep'/287, l='MpServer', x=259,13, y=70,00, z=296,84], EntityChicken['Chicken'/304, l='MpServer', x=283,08, y=69,00, z=235,35], EntitySquid['Squid'/107851, l='MpServer', x=153,50, y=54,00, z=236,50], EntitySquid['Squid'/107853, l='MpServer', x=151,50, y=54,00, z=235,50], EntitySquid['Squid'/107852, l='MpServer', x=152,50, y=54,00, z=232,50], EntitySquid['Squid'/107855, l='MpServer', x=152,50, y=54,00, z=228,50], EntitySquid['Squid'/107854, l='MpServer', x=153,50, y=54,00, z=235,50], EntitySquid['Squid'/107856, l='MpServer', x=153,50, y=54,00, z=230,50], EntitySquid['Squid'/107859, l='MpServer', x=153,50, y=54,00, z=232,50], EntitySquid['Squid'/107858, l='MpServer', x=153,50, y=54,00, z=233,50], EntitySquid['Squid'/107861, l='MpServer', x=150,50, y=54,00, z=230,50], EntitySquid['Squid'/107860, l='MpServer', x=148,50, y=54,00, z=232,50], EntitySquid['Squid'/107862, l='MpServer', x=151,50, y=54,00, z=234,50], GCEntityClientPlayerMP['vinic00kie'/348, l='MpServer', x=204,64, y=1132,51, z=240,75], EntitySquid['Squid'/107899, l='MpServer', x=191,50, y=53,00, z=201,50], EntitySquid['Squid'/107901, l='MpServer', x=190,50, y=53,00, z=199,50], EntitySquid['Squid'/107900, l='MpServer', x=188,50, y=53,00, z=202,50], EntitySquid['Squid'/107903, l='MpServer', x=188,50, y=53,00, z=201,50], EntitySquid['Squid'/107902, l='MpServer', x=194,50, y=53,00, z=199,50], EntitySquid['Squid'/107905, l='MpServer', x=184,50, y=53,00, z=205,50], EntitySquid['Squid'/107904, l='MpServer', x=183,50, y=53,00, z=202,50], EntitySquid['Squid'/107907, l='MpServer', x=191,50, y=53,00, z=200,50], EntitySquid['Squid'/107906, l='MpServer', x=182,50, y=53,00, z=207,50], EntitySquid['Squid'/107909, l='MpServer', x=189,50, y=53,00, z=198,50], EntitySquid['Squid'/107908, l='MpServer', x=191,50, y=53,00, z=198,50], EntitySquid['Squid'/107933, l='MpServer', x=147,50, y=61,00, z=202,50], EntitySquid['Squid'/107932, l='MpServer', x=145,50, y=61,00, z=201,50], EntitySquid['Squid'/107935, l='MpServer', x=143,50, y=61,00, z=200,50], EntitySquid['Squid'/107934, l='MpServer', x=145,50, y=61,00, z=202,50], EntitySquid['Squid'/107937, l='MpServer', x=143,50, y=61,00, z=204,50], EntitySquid['Squid'/107936, l='MpServer', x=146,50, y=61,00, z=204,50], EntitySquid['Squid'/107941, l='MpServer', x=142,50, y=61,00, z=206,50], EntitySquid['Squid'/107940, l='MpServer', x=143,50, y=61,00, z=203,50], EntitySquid['Squid'/107943, l='MpServer', x=146,50, y=61,00, z=205,50], EntitySquid['Squid'/107942, l='MpServer', x=144,50, y=61,00, z=208,50], EntitySquid['Squid'/107981, l='MpServer', x=158,50, y=58,00, z=286,50], EntitySquid['Squid'/107980, l='MpServer', x=153,50, y=58,00, z=284,50], EntitySquid['Squid'/107983, l='MpServer', x=153,50, y=58,00, z=283,50], EntitySquid['Squid'/107982, l='MpServer', x=156,50, y=58,00, z=283,50], EntitySquid['Squid'/107985, l='MpServer', x=160,50, y=58,00, z=281,50], EntitySquid['Squid'/107984, l='MpServer', x=159,50, y=58,00, z=285,50], EntitySquid['Squid'/107987, l='MpServer', x=156,50, y=58,00, z=279,50], EntitySquid['Squid'/107986, l='MpServer', x=155,50, y=58,00, z=278,50], EntitySquid['Squid'/107989, l='MpServer', x=159,50, y=58,00, z=284,50], EntitySquid['Squid'/107988, l='MpServer', x=157,50, y=58,00, z=285,50], EntitySquid['Squid'/107991, l='MpServer', x=165,50, y=58,00, z=286,50], EntitySquid['Squid'/107990, l='MpServer', x=162,50, y=58,00, z=286,50]]
+	Retry entities: 0 total; []
+	Server brand: fml,forge
+	Server type: Integrated singleplayer server
+Stacktrace:
+	at net.minecraft.client.multiplayer.WorldClient.addWorldInfoToCrashReport(WorldClient.java:415)
+	at net.minecraft.client.Minecraft.addGraphicsAndWorldToCrashReport(Minecraft.java:2566)
+	at net.minecraft.client.Minecraft.run(Minecraft.java:991)
+	at net.minecraft.client.main.Main.main(Main.java:164)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+	at java.lang.reflect.Method.invoke(Unknown Source)
+	at net.minecraft.launchwrapper.Launch.launch(Launch.java:135)
+	at net.minecraft.launchwrapper.Launch.main(Launch.java:28)
+	at net.minecraftforge.gradle.GradleStartCommon.launch(Unknown Source)
+	at GradleStart.main(Unknown Source)
+
+-- System Details --
+Details:
+	Minecraft Version: 1.7.10
+	Operating System: Windows 10 (amd64) version 10.0
+	Java Version: 1.8.0_60, Oracle Corporation
+	Java VM Version: Java HotSpot(TM) 64-Bit Server VM (mixed mode), Oracle Corporation
+	Memory: 285285056 bytes (272 MB) / 469237760 bytes (447 MB) up to 937951232 bytes (894 MB)
+	JVM Flags: 0 total; 
+	AABB Pool Size: 0 (0 bytes; 0 MB) allocated, 0 (0 bytes; 0 MB) used
+	IntCache: cache: 0, tcache: 0, allocated: 12, tallocated: 94
+	FML: MCP v9.05 FML v7.10.99.99 Minecraft Forge 10.13.4.1614 7 mods loaded, 7 mods active
+	States: 'U' = Unloaded 'L' = Loaded 'C' = Constructed 'H' = Pre-initialized 'I' = Initialized 'J' = Post-initialized 'A' = Available 'D' = Disabled 'E' = Errored
+	UCHIJAAAA	mcp{9.05} [Minecraft Coder Pack] (minecraft.jar) 
+	UCHIJAAAA	FML{7.10.99.99} [Forge Mod Loader] (forgeSrc-1.7.10-10.13.4.1614-1.7.10.jar) 
+	UCHIJAAAA	Forge{10.13.4.1614} [Minecraft Forge] (forgeSrc-1.7.10-10.13.4.1614-1.7.10.jar) 
+	UCHIJAAAA	Micdoodlecore{} [Micdoodle8 Core] (minecraft.jar) 
+	UCHIJAAAA	GalacticraftCore{3.0.11} [Galacticraft Core] (GalacticraftCore-Dev-1.7-3.0.11.150 (2).jar) 
+	UCHIJAAAA	VinMOON{1.0} [Vinic00kie's moon] (bin) 
+	UCHIJAAAA	examplemod{1.0} [Example Mod] (bin) 
+	GL info: ' Vendor: 'NVIDIA Corporation' Version: '4.5.0 NVIDIA 353.82' Renderer: 'GeForce GTX 960/PCIe/SSE2'
+	Launched Version: 1.7.10
+	LWJGL: 2.9.1
+	OpenGL: GeForce GTX 960/PCIe/SSE2 GL version 4.5.0 NVIDIA 353.82, NVIDIA Corporation
+	GL Caps: Using GL 1.3 multitexturing.
+Using framebuffer objects because OpenGL 3.0 is supported and separate blending is supported.
+Anisotropic filtering is supported and maximum anisotropy is 16.
+Shaders are available because OpenGL 2.1 is supported.
+
+	Is Modded: Definitely; Client brand changed to 'fml,forge'
+	Type: Client (map_client.txt)
+	Resource Packs: []
+	Current Language: English (US)
+	Profiler Position: N/A (disabled)
+	Vec3 Pool Size: 0 (0 bytes; 0 MB) allocated, 0 (0 bytes; 0 MB) used
+	Anisotropic Filtering: Off (1)
